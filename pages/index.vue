@@ -7,7 +7,7 @@ console.log(result)
 <template>
     <main>
         <h1>Top 10 Ranked Cryptocurrency Coins</h1>
-        <table border="1px solid">
+        <table>
             <thead>
                 <tr>
                     <th>Name</th>
