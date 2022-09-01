@@ -13,6 +13,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 main {
+  margin-top: 1rem;
   display: grid;
   justify-content: center;
   align-items: center;

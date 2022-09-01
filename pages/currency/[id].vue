@@ -6,7 +6,7 @@ console.log(coin)
 </script>
 
 <template>
-    <div>
+    <main>
         <h2>{{coin.name}} Details</h2>
         <table>
             <thead>
@@ -24,5 +24,5 @@ console.log(coin)
                 <td>{{coin.percent_change_24h}}</td>
             </tr>
         </table>
-    </div>
+    </main>
 </template>
