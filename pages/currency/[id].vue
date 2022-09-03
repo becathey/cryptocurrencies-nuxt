@@ -2,7 +2,6 @@
 const route = useRoute()
 const {data} = await useFetch('/api/ticker/?id=' + route.params.id)
 const coin = data.value[0]
-console.log(coin)
 </script>
 
 <template>
