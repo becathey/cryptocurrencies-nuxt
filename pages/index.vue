@@ -5,7 +5,7 @@ const result = data.value
 
 <template>
     <main>
-        <h1>Top 10 Ranked Cryptocurrency Coins</h1>
+        <h1>Top 10 Cryptocurrencies</h1>
         <table>
             <thead>
                 <tr>
