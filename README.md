@@ -1,10 +1,10 @@
-# Nuxt 3 Minimal Starter
+# CryptoMonitor
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+This application consumes data from the Coinlore API to display the top 10 cryptocurrencies. Built with Nuxt and Vue.js.
 
 ## Setup
 
-Make sure to install the dependencies:
+Install the dependencies:
 
 ```bash
 # yarn
@@ -12,9 +12,6 @@ yarn install
 
 # npm
 npm install
-
-# pnpm
-pnpm install --shamefully-hoist
 ```
 
 ## Development Server
@@ -39,4 +36,4 @@ Locally preview production build:
 npm run preview
 ```
 
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+For information on deployment, see the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets).
