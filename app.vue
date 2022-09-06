@@ -32,6 +32,7 @@ table {
   border-collapse: collapse;
   background-color: white;
   box-shadow: 20px 20px 20px 5px hsl(210, 30%, 70%);
+  margin-bottom: 2rem;
 }
 th {
   background-color: hsl(210, 60%, 90%);
