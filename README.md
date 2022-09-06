@@ -1,6 +1,6 @@
 # CryptoMonitor
 
-This application consumes data from the Coinlore API to display the top 10 cryptocurrencies. Built with Nuxt and Vue.js.
+This application consumes data from the CoinLore API to display the top 10 cryptocurrencies. Built with Nuxt and Vue.js.
 
 ## Setup
 
